@@ -1,1 +1,1 @@
-module github.com/szpzs/testmod
+module github.com/szpzs/testmod/v2
